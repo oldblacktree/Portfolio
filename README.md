@@ -1,5 +1,17 @@
 # Portfolio
 
+###  Crypto app
+Used: React, Redux Toolkit, Ant Design , RapidAPI <br>
+[Project](https://oldblacktree.github.io/crypto-app/) ([code](https://github.com/oldblacktree/crypto-app/))
+
+###  Hoo bank
+Used: React, Tailwind, CSS, Vite <br>
+[Project](https://oldblacktree.github.io/HooBank/) ([code](https://github.com/oldblacktree/HooBank))
+
+###  Geright restaurant
+Used: React, CSS <br>
+[Project](https://oldblacktree.github.io/Geright-restaurant/) ([code](https://github.com/oldblacktree/Geright-restaurant))
+
 ### Piskel-clone
 Used: HTML, CSS, React, Webpack, Jest, Google API <br>
 [Project](https://oldblacktree.github.io/piskelClone/) ([code](https://github.com/oldblacktree/piskelClone)) 
